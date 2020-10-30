@@ -38,7 +38,7 @@ To bind the dropdownlist to a primitive type (like `int`, `string`, `double`), y
 >caption Data binding a DropDownList to a primitive type
 
 ````CSHTML
-Bind to a List of a primitive type (stirng, int,...)
+Bind to a List of a primitive type (string, int,...)
 
 <TelerikDropDownList Data="@MyList" @bind-Value="MyItem">
 </TelerikDropDownList>
